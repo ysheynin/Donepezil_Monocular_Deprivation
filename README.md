@@ -9,9 +9,9 @@ adults. Front. Neurosci. 13:22. doi: 10.3389/fnins.2019.00022
 https://www.frontiersin.org/articles/10.3389/fnins.2019.00022/abstract
 
 
-2HrBiComb.csv is the data for experiment 1  
-1HrBiComb.csv is the data for experiment 2 
-2HrRivalry.csv is the data for experiment 3 
+2HrBiComb.csv is the data for experiment 1   
+1HrBiComb.csv is the data for experiment 2  
+2HrRivalry.csv is the data for experiment 3  
 
 The first five columns of each file are the post-baseline dependent variables collected at 0, 15, 30, 45, and 60 minutes after deprivation for the CTRL condition (placebo)
 
